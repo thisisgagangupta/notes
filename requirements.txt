@@ -1,4 +1,4 @@
 streamlit
 openai
 youtube_transcript_api
-docx.Document
+python-docx
