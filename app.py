@@ -8,7 +8,7 @@ from docx import Document
 import base64
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Function to retrieve transcript from YouTube video using its ID
 def get_video_transcript(video_id):
