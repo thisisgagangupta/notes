@@ -1,7 +1,6 @@
 streamlit
 openai
 youtube_transcript_api
-os
 PIL.Image
 docx.Document
 base64
