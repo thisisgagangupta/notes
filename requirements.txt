@@ -1,0 +1,8 @@
+streamlit
+openai
+youtube_transcript_api
+re
+os
+PIL.Image
+docx.Document
+base64
